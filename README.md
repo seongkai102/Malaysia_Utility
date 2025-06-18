@@ -9,5 +9,7 @@
 ## 3. 스쿨버스 시간 및 위치
     🚍스쿨버스 이용시 활용
 
-  
+## **주소**
+    https://malaysiabyseongkai102.streamlit.app/
+
 ### Copyright ⓒ seongkai102
