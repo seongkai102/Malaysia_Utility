@@ -1,0 +1,7 @@
+streamlit
+yfinance
+streamlit_option_menu
+requests
+bs4
+matplotlib
+pandas
