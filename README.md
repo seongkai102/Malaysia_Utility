@@ -14,4 +14,7 @@ https://malaysiabyseongkai102.streamlit.app/
 ## **주소**
     https://malaysiabyseongkai102.streamlit.app/
 
+## 닫혀있다면 아래 이메일로 문의
+    lsy45508297lee@gmail.com
+
 ### Copyright ⓒ seongkai102
