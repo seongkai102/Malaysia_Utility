@@ -1,4 +1,5 @@
-# 말레이시아에서 활용할 유틸리티
+# 말레이시아에서 활용한 유틸리티
+- 말레이시아에서 쓰고 싶어서 간단하게 만들었음
 
 https://malaysiabyseongkai102.streamlit.app/
 
